@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "Landing page oficial CEREALF S.A.",
+  "main": "server.js",
   "scripts": {
-    "build": "node -e \"console.log('Build static assets completed successfully')\""
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build completed')\""
   }
 }
