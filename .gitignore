@@ -1,3 +1,6 @@
+# Servidor local de desarrollo
+server.js
+
 # Dependencias y logs
 node_modules/
 npm-debug.log*
